@@ -1,0 +1,16 @@
+ .k{
+    box-sizing: border-box;
+    display: flex;
+ }
+ .n{
+    background-color: aqua;
+    box-sizing: border-box;
+    width: 33.33%;
+ }
+ 
+ .box{
+    background-color: rgb(211, 17, 17);
+    padding: 20px;
+    box-sizing: border-box;
+    width: 33.33%;
+ }
